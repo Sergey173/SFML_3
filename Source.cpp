@@ -33,7 +33,7 @@ int main()
 {
 	using namespace sf;
 
-	const double PI = 3.141592653589793238;
+	const double PI = 3.1415926535897932384;
 	int nOfSides = getShapeN();
 	double rOutCircle = getRadius();
 	double x;
